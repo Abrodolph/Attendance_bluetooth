@@ -22,23 +22,7 @@ https://drive.google.com/file/d/1HFzRfbAdhQ4Gnc2p1IKb_vpfLU1ZV99E/view?usp=shari
   <img src="https://user-images.githubusercontent.com/74052417/230737032-c8c3f53b-cbcc-46cc-a824-9eabd52a7e8e.jpg" alt="Attendance recorded" width="200" height="450">
 </div>
 
-### Faculty / Advertiser
-<div>
-  <img src="https://user-images.githubusercontent.com/74052417/230737114-cd1c241a-dc2e-4ae2-bcf3-45f74daaabc8.jpg" alt="Class details" width="200" height="450">
-    <img src="https://user-images.githubusercontent.com/74052417/230737133-c16b7271-b096-42ba-8566-1394820cd02a.jpg" alt="Advertising" width="200" height="450">
-  <img src="https://user-images.githubusercontent.com/74052417/230737117-5023aa10-ed1f-4fd9-8a0a-b108abe6fae6.jpg" alt="Studnet list" width="200" height="450">
-</div>
 
-## Download the App
-**Play Store:** https://play.google.com/store/apps/details?id=com.attendance.att_blue
-
-**Test credentials:**
-
-**Faculty:**
-
-Email: janedoe@tce.edu
-
-Password: jane123
 
 **Student:**
 
