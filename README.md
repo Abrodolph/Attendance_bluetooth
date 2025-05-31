@@ -21,11 +21,3 @@ https://drive.google.com/file/d/1HFzRfbAdhQ4Gnc2p1IKb_vpfLU1ZV99E/view?usp=shari
   <img src="https://user-images.githubusercontent.com/74052417/230737028-adacf3c9-0203-4704-97f6-4e50ea951e2c.jpg" alt="Discovering" width="200" height="450">
   <img src="https://user-images.githubusercontent.com/74052417/230737032-c8c3f53b-cbcc-46cc-a824-9eabd52a7e8e.jpg" alt="Attendance recorded" width="200" height="450">
 </div>
-
-
-
-**Student:**
-
-Email: test3a1@student.tce.edu
-
-Password: test123
