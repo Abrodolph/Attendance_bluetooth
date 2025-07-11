@@ -11,7 +11,6 @@ https://drive.google.com/file/d/1HFzRfbAdhQ4Gnc2p1IKb_vpfLU1ZV99E/view?usp=shari
 ### Student Registration and login
 <div>
   <img src="https://user-images.githubusercontent.com/74052417/230736620-a493c671-fa2d-4062-8296-150b9b3ae99d.jpg" alt="Registration page" width="200" height="450">
-  <img src="https://user-images.githubusercontent.com/74052417/230736805-30b4d892-988d-4966-8d2a-d89bc4058bf3.jpg" alt="Registration filled" width="200" height="450">
   <img src="https://user-images.githubusercontent.com/74052417/230736873-a1406d2c-a0fa-4f61-88c0-1703e3b37b39.jpg" alt="Login" width="200" height="450">
 </div>
 
